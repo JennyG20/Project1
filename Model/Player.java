@@ -1,3 +1,7 @@
+package Model;
+
+import Model.Item;
+
 import java.util.ArrayList;
 
 public class Player {

@@ -1,3 +1,8 @@
+import Model.Item;
+import Model.Player;
+import Model.Potion;
+import Model.Sword;
+
 import java.util.ArrayList;
 
 public class Main {

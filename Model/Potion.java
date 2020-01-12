@@ -1,3 +1,7 @@
+package Model;
+
+import Model.Item;
+
 public class Potion extends Item {
     private Integer health;
 

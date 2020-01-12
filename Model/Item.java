@@ -1,3 +1,7 @@
+package Model;
+
+import Util.Printable;
+
 public class Item extends Printable {
     private int ID;
     private String name;

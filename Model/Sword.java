@@ -1,3 +1,7 @@
+package Model;
+
+import Model.Item;
+
 public class Sword extends Item {
     private int damage;
     private double length;
